@@ -1,0 +1,6 @@
+{
+  "name": "자립ON - 자립준비청년 맞춤 종합 정보 포털",
+  "description": "자립준비청년을 위한 자립수당, 자립정착금(17개 시·도), LH 주거지원, 취업·교육, 심리상담 혜택 검색 및 생애주기별 자립 로드맵 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
